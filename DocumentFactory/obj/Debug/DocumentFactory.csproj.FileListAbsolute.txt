@@ -1,0 +1,6 @@
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\DocumentFactory\bin\Debug\DocumentFactory.dll
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\DocumentFactory\bin\Debug\DocumentFactory.pdb
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\DocumentFactory\obj\Debug\DocumentFactory.csproj.AssemblyReference.cache
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\DocumentFactory\obj\Debug\DocumentFactory.csproj.CoreCompileInputs.cache
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\DocumentFactory\obj\Debug\DocumentFactory.dll
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\DocumentFactory\obj\Debug\DocumentFactory.pdb

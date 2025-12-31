@@ -1,0 +1,9 @@
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\docs\CreateDocumentScript.txt
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\docs\Director.exe.config
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\docs\Director.exe
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\docs\Director.pdb
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\Director\obj\Debug\Director.csproj.AssemblyReference.cache
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\Director\obj\Debug\Director.csproj.CoreCompileInputs.cache
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\Director\obj\Debug\Director.csproj.Up2Date
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\Director\obj\Debug\Director.exe
+C:\Users\Omar Alkhamissi\Desktop\᲼᲼᲼᲼᲼\CPA3\Semesters\Sem 4\Software Design Patterns\Projects\Project 1\INFO3137-Project1 - Completed\Director\obj\Debug\Director.pdb
