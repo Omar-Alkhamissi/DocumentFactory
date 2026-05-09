@@ -1,9 +1,3 @@
-﻿/**
-Class Name: MarkdownDocument
-Purpose   : Concrete document that writes Markdown to disk and opens Notepad.
-Coder     : Omar Alkhamissi
-Date      : 2025-06-09
-*/
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;

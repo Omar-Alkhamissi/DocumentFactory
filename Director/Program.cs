@@ -1,10 +1,3 @@
-﻿/**
-Class Name: Program
-Purpose   : Console entry point that reads the script file, parses commands,
-            and drives document creation.
-Coder     : Omar Alkhamissi
-Date      : 2025-06-09
-*/
 using System;
 using System.Diagnostics;
 using System.IO;

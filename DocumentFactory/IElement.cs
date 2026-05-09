@@ -1,10 +1,3 @@
-﻿/**
-Class Name: IElement
-Purpose   : Contract for document elements that can render themselves.
-Coder     : Omar Alkhamissi
-Date      : 2025-06-09
-*/
-
 using System;
 using System.Collections.Generic;
 using System.Linq;

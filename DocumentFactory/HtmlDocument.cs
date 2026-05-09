@@ -1,9 +1,3 @@
-﻿/**
-Class Name: HtmlDocument
-Purpose   : Concrete document that writes HTML to disk and launches Chrome.
-Coder     : Omar Alkhamissi
-Date      : 2025-06-09
-*/
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;

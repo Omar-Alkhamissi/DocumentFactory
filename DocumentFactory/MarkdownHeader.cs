@@ -1,10 +1,3 @@
-﻿/**
-Class Name: MarkdownHeader
-Purpose   : Renders a Markdown # / ## / ### header line.
-Coder     : Omar Alkhamissi
-Date      : 2025-06-09
-*/
-
 using System;
 using System.Collections.Generic;
 using System.Linq;

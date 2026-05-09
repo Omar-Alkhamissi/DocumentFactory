@@ -1,10 +1,3 @@
-﻿/**
-Class Name: IDocumentFactory
-Purpose   : Abstract factory for creating documents and their elements.
-Coder     : Omar Alkhamissi
-Date      : 2025-06-09
-*/
-
 using System;
 using System.Collections.Generic;
 using System.Text;

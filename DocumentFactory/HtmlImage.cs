@@ -1,10 +1,3 @@
-﻿/**
-Class Name: HtmlImage
-Purpose   : Renders an HTML <img> tag.
-Coder     : Omar Alkhamissi
-Date      : 2025-06-09
-*/
-
 using System;
 using System.Collections.Generic;
 using System.Linq;

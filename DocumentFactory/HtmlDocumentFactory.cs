@@ -1,10 +1,3 @@
-﻿/**
-Class Name: HtmlDocumentFactory
-Purpose   : Singleton factory that produces HTML documents and elements.
-Coder     : Omar Alkhamissi
-Date      : 2025-06-09
-*/
-
 using System;
 using System.Collections.Generic;
 using System.Linq;

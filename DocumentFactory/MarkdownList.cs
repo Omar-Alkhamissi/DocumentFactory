@@ -1,10 +1,3 @@
-﻿/**
-Class Name: MarkdownList
-Purpose   : Renders an ordered or unordered Markdown list.
-Coder     : Omar Alkhamissi
-Date      : 2025-06-09
-*/
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
